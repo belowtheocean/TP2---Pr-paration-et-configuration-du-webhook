@@ -50,7 +50,7 @@ J’ai ensuite lancé ce script en tâche active dans un terminal :
 
 Dans un autre terminal, je me suis reconnectée en SSH depuis Windows sur ma VM, volontairement hors horaires → ce qui a déclenché automatiquement l’alerte sur Discord.
 
-<img width="1116" height="895" alt="image" src="https://github.com/user-attachments/assets/2486c64a-33c7-445f-9fe4-559da5818fb7" />
+<img width="1117" height="158" alt="image" src="https://github.com/user-attachments/assets/363f313d-929c-49c0-8c9e-a7f669c2c24a" />
 
 # Partie 4 — Automatisation avec Cron
 
